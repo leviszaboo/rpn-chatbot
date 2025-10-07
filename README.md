@@ -6,8 +6,8 @@ Real‑time AI assistant built with a Flask backend and a React frontend, design
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/levi-chat.git
-   cd levi-chat
+   git clone https://github.com/leviszaboo/rpn-chatbot.git
+   cd rpn-chatbot
    ```
 2. **Add your Nebula API key**
    ```bash

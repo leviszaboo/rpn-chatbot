@@ -102,7 +102,7 @@ function App() {
     <div className="App">
       <div className="chat-container">
         <div className="chat-header">
-          <h1>RPN Chat</h1>
+          <h1>RDM Chat</h1>
           <p>Ask me anything about the VU Open Handbook</p>
         </div>
 
